@@ -1,0 +1,30 @@
+html, body {
+    margin: 0;
+    height: 100%;
+}
+body {
+    background-color: #2b2b2b;
+  }
+  .header {
+    position: relative;
+    background-color: #ffffff;
+    font-size: 35px;
+    padding-top: 30px;
+    width: 100%;
+    
+  }
+  #logo {
+      padding-bottom: 15px;
+      float: top;
+      margin: 0 0 0 0;
+  }
+  #msg {
+    width: 50%;
+    background-color: #2b2b2b;
+    margin: 0 auto;
+    margin-top: 20%;
+  }
+  p{
+      color:#dcdcdc;
+      font-size:larger;
+  }
